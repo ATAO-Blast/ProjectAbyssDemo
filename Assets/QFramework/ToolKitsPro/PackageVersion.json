@@ -1,0 +1,21 @@
+{
+    "Id": "",
+    "Version": "v0.4.25",
+    "Type": 0,
+    "AccessRight": 1,
+    "DownloadUrl": "",
+    "InstallPath": "Assets/QFramework/ToolKitsPro/",
+    "IncludeFileOrFolders": [
+        "Assets/QFramework/Documents",
+        "Assets/QFramework/license.txt",
+        "Assets/QFramework/ToolKitsPro"
+    ],
+    "DocUrl": "https://liangxiegame.com",
+    "Readme": {
+        "version": "v0.4.25",
+        "content": "一些无用的菜单代码设置成 zip",
+        "author": "liangxie",
+        "date": "2022 年 11 月 24 日 18:06",
+        "PackageId": ""
+    }
+}

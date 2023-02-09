@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b54026db7c4191c42a50547b6296b6b5, type: 3}
+  m_Name: Sample3E
+  m_EditorClassIdentifier: 
+  name: "E\u7EA7\u57FA\u51C62"
+  description: "\u653B\u51FB\u4E00\u6574\u884C"
+  actionWaitTime: 3
+  bodySize: 3
+  level: 1
+  HP: 100
+  MP: 100
+  currectedValue: 1
+  ATK: 18
+  DEF: 3
+  moveSpeed: 10
+  exp: 50
+  speed: 100
+  dodge: 0
+  ridiculeSuccessRate: 0.5
+  flameResis: 0
+  frostResis: 0
+  boltResis: 0
+  poisionResis: 0
+  chaosResis: 0
+  skills:
+  - OneRowHitSkill

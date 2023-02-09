@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b54026db7c4191c42a50547b6296b6b5, type: 3}
+  m_Name: Sample4C
+  m_EditorClassIdentifier: 
+  name: "C\u7EA7\u57FA\u51C62"
+  description: "\u653B\u51FB\u5BF9\u65B9\u5168\u4F53"
+  actionWaitTime: 3
+  bodySize: 4
+  level: 3
+  HP: 225
+  MP: 100
+  currectedValue: 1
+  ATK: 40.5
+  DEF: 6.75
+  moveSpeed: 10
+  exp: 50
+  speed: 100
+  dodge: 0
+  ridiculeSuccessRate: 0.5
+  flameResis: 0
+  frostResis: 0
+  boltResis: 0
+  poisionResis: 0
+  chaosResis: 0
+  skills:
+  - HitAllSkill

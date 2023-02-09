@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b54026db7c4191c42a50547b6296b6b5, type: 3}
+  m_Name: Sample6D
+  m_EditorClassIdentifier: 
+  name: "D\u7EA7\u57FA\u51C62"
+  description: "\u57FA\u7840\u6CBB\u7597\u5355\u4F4D"
+  actionWaitTime: 3
+  bodySize: 6
+  level: 2
+  HP: 150
+  MP: 100
+  currectedValue: 1
+  ATK: 27
+  DEF: 4.5
+  moveSpeed: 10
+  exp: 50
+  speed: 100
+  dodge: 0
+  ridiculeSuccessRate: 0.5
+  flameResis: 0
+  frostResis: 0
+  boltResis: 0
+  poisionResis: 0
+  chaosResis: 0
+  skills:
+  - BaseHealSkill
+  - BaseSkill
